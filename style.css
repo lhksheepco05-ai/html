@@ -368,6 +368,7 @@ footer { background-color: var(--text-color); color: var(--gray-light); padding:
 /* --- 추가 스타일 시작 (index.html에서 이동됨) --- */
 /* 추가 CSS - 히어로 섹션 배경 대칭 수정 */
 .hero {
+    background: linear-gradient(rgba(0, 30, 60, 0.5), rgba(0, 80, 140, 0.5)), url('hero-bg.jpg') !important;
     background-position: center center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
